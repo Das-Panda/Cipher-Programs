@@ -12,7 +12,7 @@ Collection of C++ Cipher Programs
     Simple Substitution Cipher - Done
     Codes and Nomenclators Cipher - Done
     Columnar Transposition Cipher - Done
-    Autokey Cipher
+    Autokey Cipher - Done
     Beaufort Cipher
     Porta Cipher
     Running Key Cipher
