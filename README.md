@@ -18,7 +18,7 @@ Collection of C++ Cipher Programs
     Running Key Cipher - Done
     Vigenère and Gronsfeld Cipher - Done
     Homophonic Substitution Cipher - Done
-    Four-Square Cipher
+    Four-Square Cipher - Done
     Hill Cipher
     Playfair Cipher
     ADFGVX Cipher
