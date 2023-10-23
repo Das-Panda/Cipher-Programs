@@ -9,8 +9,8 @@ Collection of C++ Cipher Programs
     Rail-fence Cipher - Done
     Baconian Cipher - Done
     Polybius Square Cipher - Done
-    Simple Substitution Cipher
-    Codes and Nomenclators Cipher
+    Simple Substitution Cipher - Done
+    Codes and Nomenclators Cipher - Done
     Columnar Transposition Cipher
     Autokey Cipher
     Beaufort Cipher
