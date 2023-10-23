@@ -17,7 +17,7 @@ Collection of C++ Cipher Programs
     Porta Cipher - Done
     Running Key Cipher - Done
     Vigenère and Gronsfeld Cipher - Done
-    Homophonic Substitution Cipher
+    Homophonic Substitution Cipher - Done
     Four-Square Cipher
     Hill Cipher
     Playfair Cipher
