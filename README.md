@@ -8,7 +8,7 @@ Collection of C++ Cipher Programs
     Affine Cipher - Done
     Rail-fence Cipher - Done
     Baconian Cipher - Done
-    Polybius Square Cipher
+    Polybius Square Cipher - Done
     Simple Substitution Cipher
     Codes and Nomenclators Cipher
     Columnar Transposition Cipher
