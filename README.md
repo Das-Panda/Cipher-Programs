@@ -7,7 +7,7 @@ Collection of C++ Cipher Programs
     Caesar Cipher - Done
     Affine Cipher - Done
     Rail-fence Cipher - Done
-    Baconian Cipher
+    Baconian Cipher - Done
     Polybius Square Cipher
     Simple Substitution Cipher
     Codes and Nomenclators Cipher
