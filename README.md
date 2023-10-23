@@ -14,7 +14,7 @@ Collection of C++ Cipher Programs
     Columnar Transposition Cipher - Done
     Autokey Cipher - Done
     Beaufort Cipher - Done
-    Porta Cipher
+    Porta Cipher - Done
     Running Key Cipher
     Vigenère and Gronsfeld Cipher
     Homophonic Substitution Cipher
