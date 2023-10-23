@@ -11,7 +11,7 @@ Collection of C++ Cipher Programs
     Polybius Square Cipher - Done
     Simple Substitution Cipher - Done
     Codes and Nomenclators Cipher - Done
-    Columnar Transposition Cipher
+    Columnar Transposition Cipher - Done
     Autokey Cipher
     Beaufort Cipher
     Porta Cipher
