@@ -13,7 +13,7 @@ Collection of C++ Cipher Programs
     Codes and Nomenclators Cipher - Done
     Columnar Transposition Cipher - Done
     Autokey Cipher - Done
-    Beaufort Cipher
+    Beaufort Cipher - Done
     Porta Cipher
     Running Key Cipher
     Vigenère and Gronsfeld Cipher
