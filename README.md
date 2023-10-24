@@ -21,7 +21,7 @@ Collection of C++ Cipher Programs
     Four-Square Cipher - Done
     Hill Cipher - Done
     Playfair Cipher - Done
-    ADFGVX Cipher
+    ADFGVX Cipher - Done
     ADFGX Cipher
     Bifid Cipher
     Straddle Checkerboard Cipher
