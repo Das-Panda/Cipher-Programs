@@ -19,7 +19,7 @@ Collection of C++ Cipher Programs
     Vigenère and Gronsfeld Cipher - Done
     Homophonic Substitution Cipher - Done
     Four-Square Cipher - Done
-    Hill Cipher
+    Hill Cipher - Done
     Playfair Cipher
     ADFGVX Cipher
     ADFGX Cipher
