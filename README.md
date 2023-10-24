@@ -20,7 +20,7 @@ Collection of C++ Cipher Programs
     Homophonic Substitution Cipher - Done
     Four-Square Cipher - Done
     Hill Cipher - Done
-    Playfair Cipher
+    Playfair Cipher - Done
     ADFGVX Cipher
     ADFGX Cipher
     Bifid Cipher
