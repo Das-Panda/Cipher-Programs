@@ -25,7 +25,7 @@ Collection of C++ Cipher Programs
     ADFGX Cipher - Done
     Bifid Cipher - Done
     Straddle Checkerboard Cipher - Done
-    Trifid Cipher
+    Trifid Cipher - Done
     Base64 Cipher
     Fractionated Morse Cipher
 
