@@ -22,7 +22,7 @@ Collection of C++ Cipher Programs
     Hill Cipher - Done
     Playfair Cipher - Done
     ADFGVX Cipher - Done
-    ADFGX Cipher
+    ADFGX Cipher - Done
     Bifid Cipher
     Straddle Checkerboard Cipher
     Trifid Cipher
