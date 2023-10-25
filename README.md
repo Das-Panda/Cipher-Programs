@@ -23,7 +23,7 @@ Collection of C++ Cipher Programs
     Playfair Cipher - Done
     ADFGVX Cipher - Done
     ADFGX Cipher - Done
-    Bifid Cipher
+    Bifid Cipher - Done
     Straddle Checkerboard Cipher
     Trifid Cipher
     Base64 Cipher
