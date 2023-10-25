@@ -27,6 +27,6 @@ Collection of C++ Cipher Programs
     Straddle Checkerboard Cipher - Done
     Trifid Cipher - Done
     Base64 Cipher - Done
-    Fractionated Morse Cipher
+    Fractionated Morse Cipher - Done
 
 When individual programs are created, the idea is to make one larger program that can run all smaller programs inside of it.
